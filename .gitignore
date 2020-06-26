@@ -1,0 +1,4 @@
+# Fichier pour ignorer certains fichiers/dossiers
+
+# PhPStorm
+.idea
